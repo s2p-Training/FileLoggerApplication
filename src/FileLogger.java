@@ -10,7 +10,7 @@ public class FileLogger
     static
     {
         try {
-            ps = new PrintStream(new File("/Users/pranayramteke/Downloads/FileLoggerProject/data/LoggerInfo.ser"));
+            ps = new PrintStream(new File("/Volumes/KINGSTON/FileLoggerApplication/data/LoggerInfo.ser"));
             System.setOut(ps);
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);

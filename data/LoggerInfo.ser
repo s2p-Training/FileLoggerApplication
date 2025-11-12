@@ -1,2 +1,16 @@
-1762955724526 :: INFO :: MAIN :: Main() Method Started 
-1762955724535 :: INFO :: MAIN :: Main() Method Finished 
+1762957015279 :: INFO :: MAIN :: Main() Method Started 
+This will be printed
+First Lesson On Debugging
+1762957015286 :: INFO :: MUTATE_VARIABLE :: Main() Method Called MutateVariable() Function 
+1762957015286 :: INFO :: MUTATE_VARIABLE :: MutateVariable() Function End 
+1762957015287 :: INFO :: DISPLAY_SOME_NUMBERS :: Main Function Called DisplaySomeNumbers() Function 
+displaySomeNumbers method called
+Not Sure When This Line Will Execute
+End of displaySomeNumbers method call ends
+1762957015287 :: INFO :: DISPLAY_SOME_NUMBERS :: DisplaySomeNumbers() Function Finished 
+Value of x^2 : 100
+Value of Y : 2
+Value of z^3 : 8
+sum : 110
+110
+1762957015288 :: INFO :: MAIN :: Main() Method Finished 
